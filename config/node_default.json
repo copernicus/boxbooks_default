@@ -1,0 +1,6 @@
+{
+  "run_list": [
+    "recipe[boxbooks_default_cookbook]",
+  ]
+}
+
